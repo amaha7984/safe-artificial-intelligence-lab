@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "id": "director",
+      "title": "Director",
+      "members": [
+        {
+          "name": "Arpan Mahara, Ph.D.",
+          "title": "Assistant Professor of Artificial Intelligence",
+          "affiliation": "Purdue University Northwest",
+          "role": "Director, Safe Artificial Intelligence Lab",
+          "photo": "assets/images/people/arpan-mahara.jpg",
+          "photoAlt": "Portrait of Arpan Mahara",
+          "bio": [
+            "Arpan Mahara is an Assistant Professor of Artificial Intelligence at Purdue University Northwest and the director of the Safe Artificial Intelligence Lab. His work advances trustworthy and safe generative AI, with research centered on developing AI models grounded in mathematical foundations and on building systems that detect AI-generated content.",
+            "He has authored more than ten peer-reviewed publications at venues including ICIP, IEEE CAI, and CVPR workshops, holds two pending patent applications in trustworthy AI and forensics, and co-authored a keynote on robust generative AI for geospatial applications."
+          ],
+          "interests": [
+            "Generative Artificial Intelligence",
+            "Self-Supervised Learning",
+            "Agentic AI for Computer Vision",
+            "Visual Intelligence",
+            "AI Forensics"
+          ],
+          "education": [
+            "Ph.D. in Computer Science, Florida International University",
+            "M.S. in Computer Science, Florida International University",
+            "B.S. in Computer Science (Minor in Mathematics), Troy University"
+          ],
+          "email": "amahara@purdue.edu",
+          "links": {
+            "profile": "https://www.pnw.edu/people/arpan-mahara-ph-d/",
+            "scholar": null,
+            "github": null,
+            "website": null
+          }
+        }
+      ]
+    },
+    { "id": "graduate", "title": "Graduate Researchers", "members": [] },
+    { "id": "undergraduate", "title": "Undergraduate Researchers", "members": [] },
+    { "id": "collaborators", "title": "Collaborators", "members": [] },
+    { "id": "alumni", "title": "Alumni", "members": [] }
+  ]
+}

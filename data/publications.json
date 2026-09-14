@@ -1,0 +1,58 @@
+{
+  "publications": [
+    {
+      "id": "mahara-2026-pairflow",
+      "title": "PairFlow: Efficient Flow Matching for Paired Image-to-Image Translation with Perceptual and Structural Fidelity",
+      "authors": ["Arpan Mahara", "Naphtali D. Rishe"],
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 9030–9039",
+      "year": 2026,
+      "directions": ["development"],
+      "links": { "paper": "https://cake.fiu.edu/Publications/Mahara+Rishe-26-EF.PairFlow_Efficient_Flow_Matching_for_Paired_Image-to-Image_Translation_with_Perceptual_and_Structural_Fidelity.published-downloaded.pdf", "code": null, "project": null, "dataset": null }
+    },
+    {
+      "id": "mahara-2026-ai-image-detection-review",
+      "title": "Methods and Trends in Detecting AI-Generated Images: A Comprehensive Review",
+      "authors": ["Arpan Mahara", "Naphtali D. Rishe"],
+      "venue": "Computer Science Review, 60, 100908",
+      "year": 2026,
+      "directions": ["safety"],
+      "links": { "paper": "https://doi.org/10.1016/j.cosrev.2026.100908", "code": null, "project": null, "dataset": null }
+    },
+    {
+      "id": "mahara-2026-mri-forensics",
+      "title": "Forensic Detection of Generated MRI Imagery Using Autoregressive Modeling and Frequency Analysis",
+      "authors": ["Arpan Mahara", "Naphtali D. Rishe", "Malek Adjouadi"],
+      "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 222–231",
+      "year": 2026,
+      "directions": ["safety"],
+      "links": { "paper": "https://ieeexplore.ieee.org/abstract/document/11617845", "code": null, "project": null, "dataset": null }
+    },
+    {
+      "id": "mahara-2025-kan-i2i",
+      "title": "The Dawn of KAN in Image-to-Image (I2I) Translation: Integrating Kolmogorov-Arnold Networks with GANs for Unpaired I2I Translation",
+      "authors": ["Arpan Mahara", "Naphtali D. Rishe"],
+      "venue": "2025 IEEE Conference on Artificial Intelligence (CAI), Santa Clara, CA, USA",
+      "year": 2025,
+      "directions": ["development"],
+      "links": { "paper": "https://doi.org/10.1109/CAI64502.2025.00134", "code": null, "project": null, "dataset": null }
+    },
+    {
+      "id": "mahara-2025-terrafly-forensics",
+      "title": "Terrafly-Forensics: A Dataset for Forensic Detection of Generated Map Images with Quality Assessment of Generative Models",
+      "authors": ["Arpan Mahara", "Liangdong Deng", "Naphtali D. Rishe"],
+      "venue": "2025 IEEE International Conference on Image Processing (ICIP), Anchorage, AK, USA",
+      "year": 2025,
+      "directions": ["society"],
+      "links": { "paper": "https://doi.org/10.1109/ICIP55913.2025.11084647", "code": null, "project": null, "dataset": null }
+    },
+    {
+      "id": "mahara-2025-road-extraction",
+      "title": "Automated Road Extraction from Satellite Imagery Integrating Dense Depthwise Dilated Separable Spatial Pyramid Pooling with DeepLabV3+",
+      "authors": ["Arpan Mahara", "Md Rezaul Karim Khan", "Liangdong Deng", "Naphtali D. Rishe", "Wenjia Wang", "Seyed Masoud Sadjadi"],
+      "venue": "Applied Sciences, 15(3), 1027, Special Issue: CNN and Computer Vision",
+      "year": 2025,
+      "directions": ["society"],
+      "links": { "paper": "https://doi.org/10.3390/app15031027", "code": null, "project": null, "dataset": null }
+    }
+  ]
+}
